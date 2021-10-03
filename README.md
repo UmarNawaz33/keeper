@@ -15,6 +15,7 @@ To run this project first you need to setup your enviroment for nodejs and react
 ### Built With
 This application is built with the following:
 * [React](https://reactjs.org/)
+* [Material UI](https://mui.com/)
 * HTML5
 * CSS3
 * Local Storage
